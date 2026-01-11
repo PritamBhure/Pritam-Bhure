@@ -1,4 +1,30 @@
+GitHub README Introduction
+💫 Hi 👋, I'm Pritam Bhure 
 
+A passionate Software Developer || Flutter Developer || MCA Graduate from India  Email Me 👉 ✉️ codebypritam@gmail.com For Collaboration/Project or Anything Else. 😊😊 
+
+
+🔭 I’m currently working on: Developing and scaling cross-platform mobile applications like KaamDhanda and KaamDhanda Partner.
+
+
+🌱 I’m currently learning: Advanced AI/ML concepts and deepening my expertise in full-stack architecture.
+
+
+👯 I’m looking to collaborate on: Innovative Flutter projects, commercial mobile apps, and scalable MERN stack solutions.
+
+
+🤔 I’m looking for help with: Mastering complex system design and exploring new cloud-native backend integrations.
+
+
+💬 Ask me about: Flutter & Dart, Firebase, REST API integration, Razorpay, and State Management (Provider/MVC).
+
+
+📫 How to reach me: Shoot an email to codebypritam@gmail.com or connect with me on LinkedIn (pritambhure25).
+
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I am a National-level participant in Karate and a 1st rank champion in District!
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pritam_bhure) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pritambhure25) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:codebypritam@gmail.com) 
 
